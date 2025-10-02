@@ -31,12 +31,12 @@ A simple blog application built with **Laravel** and **TailwindCSS** where users
 
 ## Steps to run project
 
-git clone https://github.com/AhmedElabrass25/laravel_mini_blog.git
-cd laravel_mini_blog
-composer install
-npm install
-php artisan serve
-npm run dev
+-   git clone https://github.com/AhmedElabrass25/laravel_mini_blog.git
+-   cd laravel_mini_blog
+-   composer install
+-   npm install
+-   php artisan serve
+-   npm run dev
 
 ---
 
