@@ -36,6 +36,10 @@
       <a href="{{route('postCreate')}}" class="px-3 py-2 font-semibold text-gray-700 hover:text-blue-600">
         Create Post
       </a>
+      {{-- Profile --}}
+       <a href="{{route('profile.edit')}}" class="px-3 py-2 font-semibold text-gray-700 hover:text-blue-600">
+        Profile
+    </a>
       <!-- User Name -->
       <h2 class="px-3 py-2 font-semibold text-gray-700 hover:text-blue-600">Hello {{Auth::user()->name}}</h2>
 
